@@ -1,0 +1,18 @@
+.price-heart{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.product_name{
+    height:80px;
+    text-align: center;
+}
+.mb-0{
+    height:40px;
+    text-align: center;
+}
+.price_heart{
+    height: 65px;
+    text-align: center;
+}
+.product_img{
+    border:2px inline black;
+}
